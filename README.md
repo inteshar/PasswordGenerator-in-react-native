@@ -10,7 +10,4 @@ Key Features:
    * User-friendly interface for easy password generation
 
 # Demo
-
-![Password Generator App Demo](https://github.com/inteshar/PasswordGenerator-in-react-native/assets/61649055/0c6f541c-3af2-46e9-891f-951e272ffb59)
-
-<img src="https://github.com/inteshar/PasswordGenerator-in-react-native/assets/61649055/0c6f541c-3af2-46e9-891f-951e272ffb59" width="250" height="250">
+<img src="https://github.com/inteshar/PasswordGenerator-in-react-native/assets/61649055/0c6f541c-3af2-46e9-891f-951e272ffb59" width="250">
