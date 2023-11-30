@@ -4,7 +4,7 @@ This mobile application, built with React Native, enables users to generate stro
 
 Key Features:
 
-    Password length customization
-    Character type selection (lowercase, uppercase, symbols, numbers)
-    Integration of Formik for form management and validation
-    User-friendly interface for easy password generation
+   * Password length customization
+   * Character type selection (lowercase, uppercase, symbols, numbers)
+   * Integration of Formik for form management and validation
+   * User-friendly interface for easy password generation
