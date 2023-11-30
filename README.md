@@ -9,5 +9,6 @@ Key Features:
    * Integration of Formik for form management and validation
    * User-friendly interface for easy password generation
 
-#Demo
+# Demo
+
 ![Password Generator App Demo](https://github.com/inteshar/PasswordGenerator-in-react-native/assets/61649055/0c6f541c-3af2-46e9-891f-951e272ffb59)
